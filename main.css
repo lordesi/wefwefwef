@@ -21,7 +21,7 @@ p {
 .frame {
     display: grid;
     grid-template-rows: 310px 200px;
-    background-color: #3d414d; /*#3d414d*/
+    background-color: #191919;
     width: 320px;
     height: 580px;
     align-self: center;
@@ -43,9 +43,7 @@ p {
     -webkit-border-radius: 19px 19px 19px 19px;
 /*    border: 0px solid #000000;*/
     
-    -webkit-box-shadow: -8px 12px 18px 0px rgba(50, 50, 50, 0.75);
-    -moz-box-shadow: -8px 12px 18px 0px rgba(50, 50, 50, 0.75);
-    box-shadow: -8px 12px 18px 0px rgba(50, 50, 50, 0.75);
+    
     }
 }
 

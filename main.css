@@ -5,8 +5,8 @@ body {
     width: auto;
     height: 100vh;
     margin: 0px;
-background-color: #3d414d;
-    color: #b1b1b3;
+background-color: transparent;
+    color: #transparent;
     font-family: 'Roboto', sans-serif;
 }
 
